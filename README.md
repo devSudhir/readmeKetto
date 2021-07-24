@@ -26,7 +26,7 @@ npm start
 
 - ### create-react-app [![create-react-app](https://camo.githubusercontent.com/475b49b04214dfa67c1ec8a2837888ae63003feb7b71fd45be30ff360148ad87/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f72656163742e7376673f7374796c653d666c6174)](https://github.com/facebook/create-react-app)
 - ### styled-components [![styled-components](https://camo.githubusercontent.com/5ba6643341d94abdad0bc89edf930b9223664ffd462c61e4f32ec06cdbf50eb9/68747470733a2f2f636f6465636f762e696f2f67682f7374796c65642d636f6d706f6e656e74732f7374796c65642d636f6d706f6e656e74732f636f7665726167652e7376673f6272616e63683d6d61696e)](https://github.com/styled-components/styled-components)
-- ### iconify/react (https://github.com/iconify/iconify-react)
+- ### iconify/react
 - ### react-elastic-corousel [![react-elastic-corousel](https://camo.githubusercontent.com/f02d7ddafecce45e5c6e5d24ac76753cc2560e27eb41e347b4aed935392a32eb/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f72656163742d656c61737469632d6361726f7573656c2e7376673f7374796c653d666c61742d737175617265)](https://github.com/sag1v/react-elastic-carousel)
 
 ## Technologies Used
@@ -45,14 +45,15 @@ In top section there is a Header which displays varius section links of website.
 Sliders are included in the page, popups are shown when hovered.
 At the bottom section there is a footer, both Header & Footer are same across all the pages.
 The page is responsive for all screen sizes.
-<img src="readme/indes.jpeg" width="600"/>
+<img src="readme/indes.jpeg" width="400"/>
 The library used for icon is:"https://iconify.design/"
 
 ### Login Page:
 
 Existing user can Login and new user's can SignUp themselves on page.
 From NavigationBar of Landing Page.
-<img src="readme/login.jpeg" width="600"/>
+<img src="readme/login.jpeg" width="500"/>
+
 After Login user direcly redirect to home page.
 
 There are many Child pages linked to the Landing page and after login page, but for this clone following pages are made.
@@ -73,9 +74,7 @@ There are many Child pages linked to the Landing page and after login page, but 
   <img src="readme/footer.jpeg" width="400"/>
 </p>
 
-There are some Key Features which are added in website clone such as,
-
--
+There are some Key Features which are added in website clone such as:
 
 ## Team Members and Contributors
 
