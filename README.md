@@ -30,15 +30,11 @@ npm start
 ## Technologies Used
 
 <p float="left">
-  <img src="readme/html.png" width="100" />
-  <img src="readme/css.png" width="100" /> 
-  <img src="readme/JavaScript.png" width="100" />
-  <img src="readme/JavaScript.png" width="100"/>
+  <img src="readme/html.png" width="100" height="100"/>
+  <img src="readme/css.png" width="100" height="100"/> 
+  <img src="readme/JavaScript.png" width="100" height="100"/>
+  <img src="readme/JavaScript.png" width="100" height="100"/>
 </p>
-![HTML!](readme/html.png)
-![CSS!](readme/css.png)
-![JAVASCRIPT!](readme/JavaScript.png)
-![REACT!](readme/React.png)
 
 ### Landing Page :
 
