@@ -13,13 +13,13 @@ Executing the commands mentioned below one by one in your command line will help
 ```
 git clone https://github.com/Ramlala-Yadav-Git/Ketto-Clone
 npm install
-cd ./Carbon
+cd ./Ketto-Clone
 npm start
 ```
 
 ## NPM Packages used
 
-- #### react
+- #### react:2
 - #### react-dom
 - #### react-router-dom
 - #### axios
