@@ -38,6 +38,11 @@ npm start
   <img src="readme/React.png" height="150"/>
 </p>
 
+## Features
+
+- Fullscreen mode
+- Fully responsive( supported in all devices)
+
 ### Landing Page :
 
 The Landing Page of Ketto website displays various funds, success stories and chatbot application.
@@ -46,7 +51,7 @@ Sliders are included in the page, popups are shown when hovered.
 At the bottom section there is a footer, both Header & Footer are same across all the pages.
 The page is responsive for all screen sizes.
 <br/>
-<img src="readme/index.jpeg" width="400"/>
+<img src="readme/index.jpeg" width="500"/>
 
 The library used for icon is:"https://iconify.design/"
 <br/>
@@ -81,6 +86,6 @@ There are some Key Features which are added in website clone such as:
 ## Team Members and Contributors
 
 - [@Ramlala Yadav](https://github.com/Ramlala-Yadav-Git)
-- [@Sudhir kumar samantaray](https://github.com/devSudhir)
-- [@Milind](https://github.com/Milind74)
+- [@Sudhir Kumar samantaray](https://github.com/devSudhir)
+- [@Milind Anand](https://github.com/Milind74)
 - [@Kumar Ankush](https://github.com/imankush7)
