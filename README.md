@@ -26,6 +26,7 @@ npm start
 - ### create-react-app
 - ### styled-components
 - ### iconify/react
+- ### react-elastic-corousel [![react-elastic-corousel](https://camo.githubusercontent.com/f02d7ddafecce45e5c6e5d24ac76753cc2560e27eb41e347b4aed935392a32eb/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f72656163742d656c61737469632d6361726f7573656c2e7376673f7374796c653d666c61742d737175617265)](https://github.com/sag1v/react-elastic-carousel)
 
 ## Technologies Used
 
@@ -43,14 +44,14 @@ In top section there is a Header which displays varius section links of website.
 Sliders are included in the page, popups are shown when hovered.
 At the bottom section there is a footer, both Header & Footer are same across all the pages.
 The page is responsive for all screen sizes.
-![INDEX!](readme/index.jpeg)
+<img src="readme/indes.jpeg" width="600"/>
 The library used for icon is:"https://iconify.design/"
 
 ### Login Page:
 
 Existing user can Login and new user's can SignUp themselves on page.
 From NavigationBar of Landing Page.
-![LOGIN!](readme/login.jpeg)
+<img src="readme/login.jpeg" width="600"/>
 After Login user direcly redirect to home page.
 
 There are many Child pages linked to the Landing page and after login page, but for this clone following pages are made.
@@ -58,9 +59,8 @@ There are many Child pages linked to the Landing page and after login page, but 
 ### Fundraiser form page :
 
 <p float="left">
-  <img src="readme/category.jpeg" width="400"/>
-  <img src="readme/steps.jpeg"  width="400"/> 
-  <img src="readme/funds.jpeg" width="400"/>
+  <img src="readme/category.jpeg" width="500"/>
+  <img src="readme/steps.jpeg"  width="500"/> 
 </p>
 
 ### Other features and pages :
@@ -69,7 +69,6 @@ There are many Child pages linked to the Landing page and after login page, but 
   <img src="readme/successStory.png" width="400"/>
   <img src="readme/tools.jpeg"  width="400"/> 
   <img src="readme/disease.jpeg"  width="400"/>
-  <img src="readme/type.jpeg"  width="400"/>
   <img src="readme/footer.jpeg" width="400"/>
 </p>
 
