@@ -45,9 +45,11 @@ In top section there is a Header which displays varius section links of website.
 Sliders are included in the page, popups are shown when hovered.
 At the bottom section there is a footer, both Header & Footer are same across all the pages.
 The page is responsive for all screen sizes.
+<br/>
 <img src="readme/index.jpeg" width="400"/>
 
 The library used for icon is:"https://iconify.design/"
+<br/>
 
 ### Login Page:
 
