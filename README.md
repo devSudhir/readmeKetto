@@ -2,7 +2,7 @@
 
 Ketto.org : Ketto is an Indian online crowdfunding platform, where any individual/organisation across the country can raise funds for causes ranging from medical healthcare to disaster relief.
 
-<img src="/readme/kettoLogo.svg" width="600"/>
+<img src="/readme/kettoLogo.svg" width="400"/>
 
 **Our team was given a task to Clone the ketto.org Website.**
 
@@ -45,7 +45,8 @@ In top section there is a Header which displays varius section links of website.
 Sliders are included in the page, popups are shown when hovered.
 At the bottom section there is a footer, both Header & Footer are same across all the pages.
 The page is responsive for all screen sizes.
-<img src="readme/indes.jpeg" width="400"/>
+<img src="readme/index.jpeg" width="400"/>
+
 The library used for icon is:"https://iconify.design/"
 
 ### Login Page:
@@ -55,7 +56,6 @@ From NavigationBar of Landing Page.
 <img src="readme/login.jpeg" width="500"/>
 
 After Login user direcly redirect to home page.
-
 There are many Child pages linked to the Landing page and after login page, but for this clone following pages are made.
 
 ### Fundraiser form page :
@@ -65,6 +65,8 @@ There are many Child pages linked to the Landing page and after login page, but 
   <img src="readme/steps.jpeg"  width="400"/> 
 </p>
 
+There are some Key Features which are added in website clone such as:
+
 ### Other features and pages :
 
 <p float="left">
@@ -73,8 +75,6 @@ There are many Child pages linked to the Landing page and after login page, but 
   <img src="readme/disease.jpeg"  width="400"/>
   <img src="readme/footer.jpeg" width="400"/>
 </p>
-
-There are some Key Features which are added in website clone such as:
 
 ## Team Members and Contributors
 
