@@ -3,14 +3,15 @@
 Ketto.org : Ketto is an Indian online crowdfunding platform, where any individual/organisation across the country can raise funds for causes ranging from medical healthcare to disaster relief.
 
 ![KETTO!](readme/kettoLogo.svg)
-Our team was given a task to Clone the ketto.org Website.
+
+**Our team was given a task to Clone the ketto.org Website.**
 
 ## Installing and Running
 
 Executing the commands mentioned below one by one in your command line will help in making this React app up and running on your system.
 
 ```
-git clone https://github.com/vinayak-pk/Carbon.git
+git clone https://github.com/Ramlala-Yadav-Git/Ketto-Clone
 npm install
 cd ./Carbon
 npm start
@@ -18,8 +19,22 @@ npm start
 
 ## NPM Packages used
 
+- #### react
+- #### react-dom
+- #### react-router-dom
+- #### axios
+- #### create-react-app
+- #### styled-components
+- #### iconify/react
+
 ## Technologies Used
 
+<p float="left">
+  <img src="readme/html.png" width="100" />
+  <img src="readme/css.png" width="100" /> 
+  <img src="readme/JavaScript.png" width="100" />
+  <img src="readme/JavaScript.png" width="100"/>
+</p>
 ![HTML!](readme/html.png)
 ![CSS!](readme/css.png)
 ![JAVASCRIPT!](readme/JavaScript.png)
