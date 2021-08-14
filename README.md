@@ -1,6 +1,6 @@
 # Ketto - Website Clone - Project Work
 
-[![gaming](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5_E5K4AmJX0qTN0KiujpRsBLFqmZWKtQnWg&usqp=CAU)](https://www.youtube.com/watch?v=2Z3eWws3ucI)
+[![gaming](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5_E5K4AmJX0qTN0KiujpRsBLFqmZWKtQnWg&usqp=CAU)](<iframe width="695" height="391" src="https://www.youtube.com/embed/2Z3eWws3ucI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
 
 Ketto.org : Ketto is an Indian online crowdfunding platform, where any individual/organisation across the country can raise funds for causes ranging from medical healthcare to disaster relief.
 
